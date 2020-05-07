@@ -189,7 +189,7 @@ path = {}
 
 
 # API-ключ созданный ранее
-token = "75dd5c9e66affd3016d6156516e8a4bd6fe62e51e40adae1ff6dcd02b002a2da2ab0ee4e73465f582fea1"
+token = ""
 
 # Авторизуемся как сообщество
 vk = vk_api.VkApi(token=token)
