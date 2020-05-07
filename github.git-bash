@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Update 2.0"
+git remote add origin https://github.com/ilapro53/WorkCoin-2.0.git
+git push -u origin master
